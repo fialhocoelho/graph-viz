@@ -1,0 +1,6 @@
+,id_cluster,len_cluster,diretoria_cluster,comunidade_cluster,node_degree_centrality,diameter,geodesic_distance,shannon_entropy
+0,0,5,['Qualidade do papá'],['doceiros'],AB3,3,"{'RT5': inf, 'GT0': inf, 'CS9': inf, 'SS3': inf}",1.3709505944546687
+1,1,4,['Qualidade do Sono'],['cansados'],RT5,3,"{'AB3': inf, 'GT0': 2, 'CS9': inf, 'SS3': inf}",1.0
+2,2,5,['Qualidade do Sono'],['cansados'],GT0,3,"{'AB3': inf, 'RT5': 2, 'CS9': inf, 'SS3': inf}",1.3709505944546687
+3,3,6,['Qualidade da musica'],['musicos'],CS9,3,"{'AB3': inf, 'RT5': inf, 'GT0': inf, 'SS3': 2}",1.4591479170272448
+4,4,9,"['Qualidade da musica', 'Qualidade do papá']","['doceiros', 'musicos']",SS3,6,"{'AB3': inf, 'RT5': inf, 'GT0': inf, 'CS9': 2}",1.5304930567574824
